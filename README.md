@@ -1,4 +1,6 @@
-# Hoe Control Je De  Updates?
+# De Mini Shortcut Versie Van VarkieBank<sub>.nl</sub>
+
+### Hoe Control Je De  Updates?
 
 Open De ```update``` File En Zet Update Naar Ja/Nee 
 Ja = Update
